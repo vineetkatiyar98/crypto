@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/crypto/static/css/main.13af24dc.css",
-    "main.js": "/crypto/static/js/main.fb7675d9.js",
-    "static/js/787.c593b322.chunk.js": "/crypto/static/js/787.c593b322.chunk.js",
-    "index.html": "/crypto/index.html",
-    "main.13af24dc.css.map": "/crypto/static/css/main.13af24dc.css.map",
-    "main.fb7675d9.js.map": "/crypto/static/js/main.fb7675d9.js.map",
-    "787.c593b322.chunk.js.map": "/crypto/static/js/787.c593b322.chunk.js.map"
+    "main.css": "/cryptoCurrency/static/css/main.13af24dc.css",
+    "main.js": "/cryptoCurrency/static/js/main.cd5b3bf7.js",
+    "static/js/787.c593b322.chunk.js": "/cryptoCurrency/static/js/787.c593b322.chunk.js",
+    "index.html": "/cryptoCurrency/index.html",
+    "main.13af24dc.css.map": "/cryptoCurrency/static/css/main.13af24dc.css.map",
+    "main.cd5b3bf7.js.map": "/cryptoCurrency/static/js/main.cd5b3bf7.js.map",
+    "787.c593b322.chunk.js.map": "/cryptoCurrency/static/js/787.c593b322.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.13af24dc.css",
-    "static/js/main.fb7675d9.js"
+    "static/js/main.cd5b3bf7.js"
   ]
 }
